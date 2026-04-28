@@ -1,18 +1,16 @@
-# PRODIGY_WD_05
-
-# 🌦️ WeatherSphere - Real-time Weather Updates
+ WeatherSphere - Real-time Weather Updates
 
 WeatherSphere is a sleek, responsive weather application built with HTML, CSS (Tailwind), and JavaScript. It fetches real-time weather data and a 5-day forecast using the OpenWeatherMap API.
 
-## 🚀 Features
+ Features
 
-- 🔍 Search weather by city name
-- 📍 Get weather for your current location using Geolocation API
-- 🌡️ Real-time weather stats: temperature, humidity, wind speed, pressure
-- 🗓️ 5-Day forecast with icons and descriptions
-- 💡 Animated, responsive UI with modern design (using Tailwind CSS and Font Awesome)
+ Search weather by city name
+ Get weather for your current location using Geolocation API
+ Real-time weather stats: temperature, humidity, wind speed, pressure
+5-Day forecast with icons and descriptions
+💡 Animated, responsive UI with modern design (using Tailwind CSS and Font Awesome)
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - HTML5
 - Tailwind CSS
